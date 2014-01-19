@@ -19,6 +19,6 @@ Mine Principles of Programming Languages (POPL) conference publications:
 
 ``` python miner.py popl ```
 
-Mine POPL publications without citation data, limiting to the last 10 conferences, and put the output in ```popl10.da```:
+Mine POPL publications without citation data, limiting to the last 10 conferences, and put the output in ```popl10.dat```:
 
 ``` python miner.py popl -nc -l 10 -f popl10.dat ```
